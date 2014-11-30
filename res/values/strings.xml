@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jagdeep</string>
+    <string name="full_name">Jagdeep Matharu</string>
+    <string name="action_settings">Settings</string>
+    <string name="details">Jagdeep - 300710666</string>
+    <string name="download">Download and Display Images</string>
+    <string name="restaurantList">Restaurant List</string>
+    <string name="title_activity_jagdeep_download">Jagdeep</string>
+    <string name="title_activity_jagdeep_restaurant">Jagdeep</string>
+    <string name="exit">Exit</string>
+    <string name="notification">Are you sure you want to exit?</string>
+    <string name="ok">OK</string>
+     <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="selectOne">Select One</string>
+    <string name="dialogMessage">Please select one option to proceed further!</string>
+    <string name="error">Some Error occurred</string>
+    <string name="bImage">Download Image File</string>
+    <string name="backButton">Back</string>
+    <string name="title_activity_main_activity_list">MainActivityList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="res1">Bombay Palace - 71 Jarvis St, Toronto, ON</string>
+    <string name="res2">Aria Ristorante - 25 York St, Toronto, ON</string>
+    <string name="res3">Panorama Lounge - 55 Bloor St W, Toronto, ON</string>
+    <string name="title_activity_download_activity">Download_activity</string>
+    <string name="note">Downloading file. Please wait . . .</string>
+    <string name="fd">All files Are downloaded</string>
+    <string name="Delete">Please Delete some files that are previously downloaded</string>
+
+</resources>
